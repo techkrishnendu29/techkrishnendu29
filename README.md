@@ -9,17 +9,6 @@ Building scalable, user-centric applications with clean architecture, modern UI,
   <img src="https://komarev.com/ghpvc/?username=techkrishnendu29&label=Profile%20views&color=0e75b6&style=flat" alt="techkrishnendu29" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=techkrishnendu29" alt="techkrishnendu29" />
-  </a> 
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
-</p>
 
 ---
 
