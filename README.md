@@ -1,5 +1,5 @@
 <h1 align="center">Krishnendu Ghosh</h1>
-<h3 align="center">Software Developer | Android & Web Engineer | Machine Learning Enthusiast</h3>
+<h3 align="center">Software Developer | Android & Web Developer | AI Engineer | Machine Learning Enthusiast</h3>
 
 <p align="center">
 Building scalable, user-centric applications with clean architecture, modern UI, and robust backend systems.
