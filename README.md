@@ -1,9 +1,7 @@
 <h1 align="center">Krishnendu Ghosh</h1>
-<h3 align="center">Software Developer | Android & Web | Machine Learning Enthusiast</h3>
-<h3 align="center">Software Developer | Android & AI Engineer | Machine Learning Enthusiast</h3>
+<h3 align="center">Software Developer | Android & Web Engineer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  Building scalable applications with clean architecture, modern UI, and intelligent systems.
 Building scalable, user-centric applications with clean architecture, modern UI, and robust backend systems.
 </p>
 
@@ -27,102 +25,53 @@ Building scalable, user-centric applications with clean architecture, modern UI,
 
 ### 👨‍💻 About Me
 
-I am a Software Developer specializing in **Android and Web Development**, with a growing focus on **Machine Learning and AI-driven systems**.
 I am a Software Developer specializing in **Android and Full-Stack Web Development**, with a strong and growing focus on **Machine Learning systems**.  
 
-I enjoy designing and developing real-world, production-ready applications that emphasize:
-- Clean Architecture & Maintainability  
-- Scalable Backend Systems  
-- RESTful API Design  
-- Automation & Deployment  
-- Data-Driven Intelligent Solutions  
 My engineering approach emphasizes:
 - Clean, maintainable architecture  
 - RESTful API design and backend scalability  
 - Performance optimization  
 - Practical, problem-solving oriented solutions  
 
-Currently focused on integrating **Machine Learning models into full-stack applications** to build smart, efficient, and user-centric systems.
 I enjoy transforming ideas into production-ready applications that deliver measurable value.
 
 ---
 
-### 🌐 Portfolio & Publications
 ### 🔗 Portfolio & Publications
 
-- 🔗 Portfolio:  
 - 🌐 Portfolio:  
   https://krishnendughoshprofile.vercel.app  
 
 - 📝 Technical Articles & Blogs:  
-@@ -35,69 +50,93 @@ Currently focused on integrating **Machine Learning models into full-stack appli
+  https://sites.google.com/view/krishnendughoshuttarpara  
+
+- 📄 Resume:  
+  https://krishnendughoshprofile.vercel.app/CV.pdf  
 
 ---
 
-### 💬 Core Expertise
 ### 💬 Technical Expertise
 
-#### 📱 Android Development
-Kotlin · Java · XML · Firebase · REST APIs · MVVM · Clean Architecture  
 **Android Development**  
 Kotlin · Java · XML · Firebase · REST APIs  
 
-#### 🌐 Web Development
-React · Node.js · Express · MongoDB · API Development  
 **Web Development**  
 React · Node.js · Express · MongoDB  
 
-#### 🧠 Machine Learning
-Python · Model Training · Evaluation · Scikit-learn · TensorFlow · PyTorch  
 **Software Engineering**  
 API Development · Automation · System Design · Deployment  
 
-#### ⚙️ Software Engineering
-System Design · Backend Architecture · Deployment · Automation · CI/CD  
 **Machine Learning**  
 Model Training · Evaluation · Python Ecosystem  
 
 ---
 
-### 🛠 Tech Stack
-
-**Languages:**  
-C · C++ · Java · Python · JavaScript · TypeScript · Dart · SQL  
-
-**Frontend:**  
-React · Angular · Vue · TailwindCSS · HTML5 · CSS3  
-
-**Backend:**  
-Node.js · Express · Django · Spring Boot · Laravel  
-
-**Mobile:**  
-Android (Kotlin/Java) · Flutter · React Native  
-
-**Databases:**  
-MySQL · PostgreSQL · MongoDB · SQLite · SQL Server  
-
-**Cloud & DevOps:**  
-AWS · Azure · GCP · Docker · Kubernetes · Git · Linux  
 ### 📫 Contact
 
-**ML & Data:**  
-TensorFlow · PyTorch · Scikit-learn · Pandas · OpenCV · MATLAB  
 Email: **krishnendughosh291004@gmail.com**
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techkrishnendu29&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techkrishnendu29&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techkrishnendu29" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
@@ -186,15 +135,8 @@ Email: **krishnendughosh291004@gmail.com**
 
 ---
 
-### 📫 Contact
-
-📧 krishnendughosh291004@gmail.com  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techkrishnendu29&show_icons=true&locale=en&layout=compact" alt="techkrishnendu29" /></p>
 
----
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techkrishnendu29&show_icons=true&locale=en" alt="techkrishnendu29" /></p>
 
-<p align="center">
-  <i>“Turning ideas into scalable and intelligent digital solutions.”</i>
-</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techkrishnendu29&" alt="techkrishnendu29" /></p>
