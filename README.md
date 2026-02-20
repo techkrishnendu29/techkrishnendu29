@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android Development: Kotlin · Java · XML · Firebase · REST APIs Web Development: React · Node.js · Express ·MongoDB Software Engineering: API development · automation · system design · deployment Machine Learning: model training · evaluation · Python libraries**
 
-- 📫 How to reach me **techkrishnendu29@gmail.com**
+- 📫 How to reach me **krishnendughosh291004@gmail.com**
 
 - 📄 Know about my experiences [https://krishnendughoshprofile.vercel.app/CV.pdf](https://krishnendughoshprofile.vercel.app/CV.pdf)
 
