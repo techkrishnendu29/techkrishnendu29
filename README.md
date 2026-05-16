@@ -29,13 +29,13 @@ I enjoy transforming ideas into production-ready applications that deliver measu
 ### 🔗 Portfolio & Publications
 
 - 🌐 Portfolio:  
-  portfolio.krishnendughosh.in 
+  https://portfolio.krishnendughosh.in
 
 - 📝 Technical Articles & Blogs:  
   www.krishnendughosh.in
 
 - 📄 Resume:  
-   portfolio.krishnendughosh.in /CV.pdf  
+   https://portfolio.krishnendughosh.in/CV.pdf  
 
 ---
 
