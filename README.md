@@ -29,13 +29,13 @@ I enjoy transforming ideas into production-ready applications that deliver measu
 ### 🔗 Portfolio & Publications
 
 - 🌐 Portfolio:  
-  https://krishnendughoshprofile.vercel.app  
+  portfolio.krishnendughosh.in 
 
 - 📝 Technical Articles & Blogs:  
-  https://sites.google.com/view/krishnendughoshuttarpara  
+  www.krishnendughosh.in
 
 - 📄 Resume:  
-  https://krishnendughoshprofile.vercel.app/CV.pdf  
+   portfolio.krishnendughosh.in /CV.pdf  
 
 ---
 
